@@ -11,7 +11,6 @@ This project demonstrates how to detect the presence of a hypervisor using the C
 ## Files
 - `hypervisor.asm` - Assembly implementation that executes CPUID and exits.
 - `hypervisor.c` - C implementation that prints the hypervisor vendor signature.
-- `Makefile` (optional) - Can be used to compile both implementations.
 
 ## Assembly Implementation
 ### Instructions
